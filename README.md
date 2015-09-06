@@ -36,5 +36,8 @@ import Avatar from 'Avatar';
 
 ### Property Precedence
 imageUrl
+
 colour
+
 identifier
+
