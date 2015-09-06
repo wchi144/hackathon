@@ -44,7 +44,7 @@ import Avatar from 'Avatar';
 ## Example ##
 
 #### Avatar with identifier ####
-![avatar2]()
+![](example/avatar_identifier.png)
 
 #### Avatar with imageUrl ####
-![avatar1]()
+![](example/avatar_imageUrl.png)
