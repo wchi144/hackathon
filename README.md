@@ -34,7 +34,7 @@ import Avatar from 'Avatar';
 })();
 ```
 
-### Property Precedence ###
+#### Property Precedence ####
 imageUrl
 
 colour
