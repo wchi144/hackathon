@@ -25,7 +25,7 @@ import Avatar from 'Avatar';
 			<Avatar className="my-comp"
 				value="Magic Unicorn's Fairy Dust"
 				size="small"
-				colour= "purple"
+				colour= "#800080"
 				identifier="XfCqgf"
 				imageUrl="rainbow.png"/>
 		</div>, 
@@ -41,3 +41,10 @@ import Avatar from 'Avatar';
 
 **identifier**: A random colour will be generated using the identifier if there is no imageUrl or colour.  Will also contain the first letter of the value property
 
+## Example ##
+
+#### Avatar with identifier ####
+![avatar2](https://github.dev.xero.com/github-enterprise-assets/0000/0601/0000/6347/c471e3ea-5555-11e5-91f5-b2cbb913666e.jpg)
+
+#### Avatar with imageUrl ####
+![avatar1](https://github.dev.xero.com/github-enterprise-assets/0000/0601/0000/6348/c4727a94-5555-11e5-90f8-787aad4fef3a.jpg)
