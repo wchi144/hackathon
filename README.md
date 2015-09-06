@@ -23,11 +23,11 @@ import Avatar from 'Avatar';
 	React.render(
 		<div>
 			<Avatar className="my-comp"
-				value="Weasleys' Wizard Wheezes"
+				value="Magic Unicorn's Fairy Dust"
 				size="small"
-				colour= "orange"
+				colour= "purple"
 				identifier="XfCqgf"
-				imageUrl="logo.png"/>
+				imageUrl="rainbow.png"/>
 		</div>, 
 		document.getElementById('app')
 	);
