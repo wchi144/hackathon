@@ -3,13 +3,13 @@ Avatar
 
 A simple React avatar component 
 
-## Getting Started
+## Getting Started ##
 
 ```
 $ npm install && npm test
 ```
 
-## Usage
+## Usage ##
 
 Install via bower
 ```bash
@@ -34,7 +34,7 @@ import Avatar from 'Avatar';
 })();
 ```
 
-### Property Precedence
+### Property Precedence ###
 imageUrl
 
 colour
