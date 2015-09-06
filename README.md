@@ -44,7 +44,7 @@ import Avatar from 'Avatar';
 ## Example ##
 
 #### Avatar with identifier ####
-![avatar2](https://github.dev.xero.com/github-enterprise-assets/0000/0601/0000/6347/c471e3ea-5555-11e5-91f5-b2cbb913666e.jpg)
+![avatar2]()
 
 #### Avatar with imageUrl ####
-![avatar1](https://github.dev.xero.com/github-enterprise-assets/0000/0601/0000/6348/c4727a94-5555-11e5-90f8-787aad4fef3a.jpg)
+![avatar1]()
