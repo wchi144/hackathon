@@ -4,7 +4,6 @@ Avatar
 A simple React avatar component 
 
 ## Getting Started
-===========
 
 ```
 $ npm install && npm test
