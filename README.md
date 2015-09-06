@@ -26,7 +26,7 @@ import Avatar from 'Avatar';
 				value="Weasleys' Wizard Wheezes"
 				size="small"
 				colour= "orange"
-				identifier="!XfCqgf"
+				identifier="XfCqgf"
 				imageUrl="logo.png"/>
 		</div>, 
 		document.getElementById('app')
@@ -35,9 +35,9 @@ import Avatar from 'Avatar';
 ```
 
 #### Property Precedence ####
-imageUrl
+imageUrl: The image will always be used if specified
 
-colour
+colour: Colour will be used if there is no imageUrl. Will also contain the first letter of the value property
 
-identifier
+identifier: A random colour will be generated using the identifier if there is no imageUrl or colour.  Will also contain the first letter of the value property
 
