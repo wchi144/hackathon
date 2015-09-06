@@ -35,9 +35,9 @@ import Avatar from 'Avatar';
 ```
 
 #### Property Precedence ####
-imageUrl: The image will always be used if specified
+**imageUrl**: The image will always be used if specified
 
-colour: Colour will be used if there is no imageUrl. Will also contain the first letter of the value property
+**colour**: Colour will be used if there is no imageUrl. Will also contain the first letter of the value property
 
-identifier: A random colour will be generated using the identifier if there is no imageUrl or colour.  Will also contain the first letter of the value property
+**identifier**: A random colour will be generated using the identifier if there is no imageUrl or colour.  Will also contain the first letter of the value property
 
