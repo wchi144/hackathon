@@ -27,7 +27,7 @@ import Avatar from 'Avatar';
 				size="small"
 				colour= "#800080"
 				identifier="XfCqgf"
-				imageUrl="rainbow.png"/>
+				imageUrl="logo.png"/>
 		</div>, 
 		document.getElementById('app')
 	);
